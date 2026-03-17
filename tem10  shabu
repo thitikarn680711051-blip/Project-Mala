@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<title>Malatang around Silpakorn</title>
+
+<style>
+
+body{
+    background-color:#e51c23;
+    text-align:center;
+    font-family: Arial, sans-serif;
+    color:white;
+}
+
+nav{
+    font-size:18px;
+    margin-top:10px;
+}
+
+h1{
+    color:white;
+}
+
+h2{
+    color:#fff4f2;
+}
+
+.soup-container{
+    display:flex;
+    justify-content:center;
+    gap:60px;
+    margin-top:20px;
+}
+
+.soup-box{
+    background-color:rgba(255,255,255,0.2);
+    padding:20px;
+    border-radius:12px;
+    width:200px;
+}
+
+hr{
+    margin:30px;
+}
+
+</style>
+</head>
+
+<body>
+
+<hr>
+
+<h1>ร้านหมาล่าทั่งรอบมหาวิทยาลัยศิลปากร</h1>
+
+<h2>เต็มสิบ ชาบูชาม 🍜</h2>
+
+<p>
+เปิดทุกวัน 11.00 - 21.00 น.<br>
+ร้านหมาล่าทั่งหน้ามอศิลปากร<br>
+สามารถเลือกวัตถุดิบเองได้ เช่น หมู ผัก เส้น และลูกชิ้นต่าง ๆ<br>
+ซุปหมาล่ามีหลายแบบให้เลือก
+</p>
+
+<a href="https://www.facebook.com/share/1CbJkCKPfC/?mibextid=wwXIfr" target="_blank">
+<img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/528822955_122113242980945317_2709438429717381341_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=OjblpGckAdsQ7kNvwEmKklx&_nc_oc=AdmIYIIHphRzsJka1ao9LZja7BiI5dzROPyeYJIQBStqDyE855Ttrn7KyPYt0TeXt3E&_nc_zt=23&_nc_ht=scontent.fbkk10-1.fna&_nc_gid=pP8Wk-0M1reKeDZTNwLj3A&_nc_ss=8&oh=00_AfxpIcERUSenSIkQ7uWKDUHjUXm2LptMBmDJFuUfDRfjxQ&oe=69BB524B" width="250">
+</a>
+
+<hr>
+
+<h2 id="menu">วัตถุดิบในร้าน</h2>
+
+<img src="https://scontent.fbkk22-6.fna.fbcdn.net/v/t39.30808-6/528717005_122113046300945317_5570985079289910320_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=102&ccb=1-7&_nc_sid=7b2446&_nc_ohc=hqmynDBICwgQ7kNvwEiLmNh&_nc_oc=AdlQPzZ7ktCOl7Rl_Mpdn_3P_nCLBS-Z5wtLMWX72nYK-VSxNIyQ767v8y8zAbVoctleAdLgYuvbEZ1-TnEjdCd5&_nc_zt=23&_nc_ht=scontent.fbkk22-6.fna&_nc_gid=rR7Cj0fP73hWsFcjZ1c9lQ&_nc_ss=8&oh=00_AfxpkTG8lt08bt0qmoVW7NVPTfmXb5yHafFfqMrua7YKdQ&oe=69BB75DD" width="30%">
+
+<hr>
+
+<h2>เมนูยอดนิยม</h2>
+
+<p>
+หมูสไลซ์ 🥓<br>
+เส้นมันเทศ 🍜<br>
+เต้าหู้ปลา 🍥<br>
+เห็ดเข็มทอง 🍄<br>
+ไส้เป็ด 🦆
+</p>
+
+<hr>
+
+<h2>น้ำซุป</h2>
+
+<div class="soup-container">
+
+<div class="soup-box">
+<h3>ซุปธรรมดา</h3>
+
+🤍 ซุปน้ำใส<br>
+🤎 ซุปน้ำดำ<br>
+💛 ซุปกระดูกหมู<br>
+❤️ ซุปหมาล่า<br>
+🧡 ซุปหมาล่านม<br>
+🩶 หมาล่าแห้ง
+
+</div>
+
+<div class="soup-box">
+<h3>ซุปพิเศษ</h3>
+
+🧡 ซุปกระดูกหมู + หมาล่า<br>
+🤎 ซุปดำ + หมาล่า<br>
+❤️ ต้มยำหมาล่า
+
+</div>
+
+</div>
+
+<hr>
+
+<h2>ราคาต่อขีด</h2>
+
+<blockquote>
+<em>ขีดละ 29 บาท 💰</em>
+</blockquote>
+
+<hr>
+
+<small>Malatang around Silpakorn &hearts;</small>
+
+<br><br>
+
+<a href="index.html">↑กลับไปหน้าแรก</a>
+
+</body>
+</html>

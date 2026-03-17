@@ -1,1 +1,40 @@
-
+ <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>MALATANG</title>
+</head>
+<body bgcolor="#e51c23 ">
+    <div style="text-align:center; color:white;">
+    <h1>MALATANG AROUND SILPAKORN 🍜🌶️</h1>
+</div>
+    
+    <div style="text-align:center; color:white;">
+    <img src="https://campus.campus-star.com/app/uploads/2016/01/79543833.jpg" width="40%">
+</div>
+    
+    
+    
+    <div style="text-align:center; class=info; color:white;">
+<p>
+รวมร้านหมาล่าทั่งใกล้มหาวิทยาลัยศิลปากร<br>
+สามารถกดปุ่มด้านล่างเพื่อดูร้านต่าง ๆ ได้
+</p>
+</div>
+<div style="text-align:center; color:white;">
+    <a href="temsib.html" class="box-link">เต็มสิบ ชาบูหมาล่า</a>
+    <a href="chin chin.html" class="box-link">ชินชิน เกาเหลาหมาล่าทั่ง</a>
+    <a href="yo i soup.html" class="box-link">โยอิซุป</a>
+<style>
+.box-link{
+  display:inline-block;
+  padding:10px 20px;
+  background:#f9a825;
+  color:white;
+  text-decoration:none;
+  border-radius:12px;
+  font-size:15px;
+}
+</div>
+</body>
+</html>
